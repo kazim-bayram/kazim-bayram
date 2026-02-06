@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Kazım Bayram
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on entry level Projects
-- 📫 How to reach me kazim.bayram@pm.me
-
-
+Senior Industrial Engineering student @ METU. Project Engineer Intern @ Eti. I
+like building systems that actually work. Currently obsessed with React, Firebase, and optimizing everything in sight. Building tools for the real world. 
+Contact : kazimbayram.pr@gmail.com
